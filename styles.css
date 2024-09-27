@@ -1,0 +1,37 @@
+body {
+    background-color: #0D1930;
+    color: white;
+    font-family: 'Fira Sans', sans-serif;    
+    margin: 0;
+    padding: 20px;
+}
+
+.logo {
+    width: 75px; 
+    height: auto; 
+    position: absolute; 
+    top: 3rem;
+    padding-left: 10vw;
+}
+
+h1 {
+    font-weight: 500;
+}
+
+.web-title h1 {
+    font-size: 8rem;
+    line-height: 8rem;
+    text-align: left;
+}
+
+.web-title {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    height: 100vh;
+    padding-left: 10vw;
+}
+
+p {
+    text-align: center;
+}
